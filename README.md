@@ -1,8 +1,28 @@
-## Lösenords Generator
+## Overview
 
-![Se hur designen ska se ut via](./preview.png)
+### Links
 
-**Dags för utmaning 🐺**
+Will add live URL soon
+<!-- - Live Site URL: [Add live site URL here](https://dreamy-daifuku-fe23e2.netlify.app/) -->
+
+### Screenshot
+
+Will add screenshot soon
+<!-- [Project Screenshot](src/assets/Screenshot.png) -->
+
+### Built with
+
+- Vite
+- TailwindCSS
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+
+I learned to use several "useStates" to create more complex functionality needed for a password generator, I also learned how to make a slider responsive to changes with Javascript.
+
+## Read about the challange below.
+## The challange requirements are in swedish as the course that provided the challange is based in sweden.
 
 ## Vad ska du göra?
 
@@ -43,9 +63,3 @@ Ex. TypeScript, React, sass 🔥
 11. Lägg till hover- och fokustillstånd för alla interaktiva element på sidan
 
 12. Testa och felsök din lösenordsgeneratorapp för att säkerställa att allt fungerar som det ska.
-
-## Hur lämnar du in uppgiften?
-
-Släng ihop din HTML / CSS och Javscript fil i en mapp och gör det till en zip fil. Som du sedan lämnar in i denna lektionen på TSM.
-
-## Stort Lycka till :)))
