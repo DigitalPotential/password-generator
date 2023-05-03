@@ -12,12 +12,12 @@ Key Features
 ### Links
 
 Will add live URL soon
-<!-- - Live Site URL: [Add live site URL here](https://dreamy-daifuku-fe23e2.netlify.app/) -->
+- Live Site URL: [Add live site URL here](https://password-generator-navy.vercel.app/)
 
 ### Screenshot
 
 Will add screenshot soon
-<!-- [Project Screenshot](src/assets/Screenshot.png) -->
+[Project Screenshot](public/Sk%C3%A4rmbild%201.png)
 
 ### Technologies
 
