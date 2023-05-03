@@ -11,12 +11,10 @@ Key Features
 
 ### Links
 
-Will add live URL soon
 - Live Site URL: [Add live site URL here](https://password-generator-navy.vercel.app/)
 
 ### Screenshot
 
-Will add screenshot soon
 [Project Screenshot](public/Sk%C3%A4rmbild%201.png)
 
 ### Technologies
@@ -30,7 +28,7 @@ Will add screenshot soon
 
 Throughout this project, I enhanced my skills in creating complex functionality using multiple "useState" hooks in React. I successfully implemented a responsive slider that reacts to user input with JavaScript. This experience allowed me to strengthen my understanding of React, JavaScript, and responsive design techniques, which I can now apply to future projects with confidence.
 
-## Read about the challange below.
+## Read about the challenge below.
 ## The challange requirements are in swedish as the course that provided the challange is based in sweden.
 
 ## Vad ska du göra?
